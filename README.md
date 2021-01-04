@@ -1,3 +1,0 @@
-# python-calculator
-
-Python calculator!
